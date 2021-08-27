@@ -26,5 +26,5 @@
 
 > 在分析了功能、流行度、安全问题和社区支持之后，我认为 pdf 查看器库的最佳选择是 React-pdf。
 >
-> ![PDF下载量对比](/images/wecom-temp-e023d57fa4e74c1c8cb76332eb50951c.png)
+> ![PDF下载量对比](./images/wecom-temp-e023d57fa4e74c1c8cb76332eb50951c.png)
 > Source: https://www.npmtrends.com/
