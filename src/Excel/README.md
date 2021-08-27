@@ -1,4 +1,4 @@
-## PDF
+## Excel
 
 - [react-pdf/renderer](https://www.npmjs.com/package/@react-pdf/renderer)
 
