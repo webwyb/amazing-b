@@ -2,4 +2,4 @@
 
 ## PDF
 
-[PDF](src/PDF/READMD.md)
+[PDF](https://github.com/webwyb/amazing-b/tree/main/src/PDF)
